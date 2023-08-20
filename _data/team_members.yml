@@ -1,5 +1,5 @@
 - name: Jie Ying Wu
-  photo: jieying.jpg
+  photo: jieying.png
   info: Assistant Professor of Computer Science
   email: jieying.wu@vanderbilt.edu
   number_educ: 3
@@ -7,7 +7,7 @@
   education2: M.Sc in Applied Mathematics, ENS Paris-Saclay (2016)
   education3: Ph.D. in Computer Science, Johns Hopkins University (2021)
 
-- name: John J. Han
+- name: [John J. Han](juseonghan.github.io)
   photo: john.jpg
   info: PhD Student
   email: john.j.han@vanderbilt.edu
