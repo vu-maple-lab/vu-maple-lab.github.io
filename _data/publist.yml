@@ -2,8 +2,6 @@
   image: imageaward_edited.png
   description: A couple sentences on motivation/contributions. 
   authors: Bob, Alice, JY Wu
-  link:
-    url: https://my.vanderbilt.edu/maple-lab/
-    display: Hyperlink to Publication
+  link: https://my.vanderbilt.edu/maple-lab/
   highlight: 1
   news2: Optional, if you have some news article about your work
