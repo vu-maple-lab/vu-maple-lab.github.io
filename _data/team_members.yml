@@ -1,6 +1,5 @@
 - name: Jie Ying Wu
   photo: jieying.png
-  haslink: 0
   info: Assistant Professor of Computer Science
   email: jieying.wu@vanderbilt.edu
   number_educ: 3
@@ -8,10 +7,8 @@
   education2: M.Sc in Applied Mathematics, ENS Paris-Saclay (2016)
   education3: Ph.D. in Computer Science, Johns Hopkins University (2021)
 
-- name: John J. Han
+- name: <a href="https://juseonghan.github.io">John J. Han</a>
   photo: john.jpg
-  haslink: 1
-  link: https://juseonghan.github.io
   info: PhD Student
   email: john.j.han@vanderbilt.edu
   number_educ: 2
@@ -20,7 +17,6 @@
 
 - name: Ayberk Acar
   photo: ayberk.png
-  haslink: 0
   info: PhD Student
   email: ayberk.acar@vanderbilt.edu
   number_educ: 2
@@ -29,7 +25,6 @@
 
 - name: Simon Hao Yang
   photo: simon.png
-  haslink: 0
   info: PhD Student
   email: hao.yang@vanderbilt.edu
   number_educ: 2
@@ -39,7 +34,6 @@
 - name: Jumanh Atoum
   photo: jumanh.png
   info: PhD Student
-  haslink: 0
   email: jumanh.atoum@vanderbilt.edu
   number_educ: 2
   education1: M.S. in Electrical and Computer Engineering, Tennessee Technological University
