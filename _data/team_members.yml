@@ -11,9 +11,7 @@
 - name: John J. Han
   photo: john.jpg
   haslink: 1
-  link:
-    url: https://juseonghan.github.io
-    display: Personal Website
+  link: https://juseonghan.github.io
   info: PhD Student
   email: john.j.han@vanderbilt.edu
   number_educ: 2
