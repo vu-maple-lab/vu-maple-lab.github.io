@@ -1,19 +1,43 @@
-- name: Our PI :)
-  photo: blank.jpg
-  info: 
-  email: 
+- name: Jie Ying Wu
+  photo: jieying.jpg
+  info: Assistant Professor of Computer Science
+  email: jieying.wu@vanderbilt.edu
   number_educ: 3
-  education1: 
-  education2: 
-  education3: 
+  education1: B.Sc in Computer Engineering, Brown University (2015)
+  education2: M.Sc in Applied Mathematics, ENS Paris-Saclay (2016)
+  education3: Ph.D. in Computer Science, Johns Hopkins University (2021)
 
 - name: John J. Han
   photo: john.jpg
-  info: PhD Student, started August 2023
+  info: PhD Student
   email: john.j.han@vanderbilt.edu
   number_educ: 2
-  education1: MSE in Robotics, Johns Hopkins University
-  education2: BS in Electrical Engineering, Johns Hopkins University
+  education1: M.S.E. in Robotics, Johns Hopkins University (2023)
+  education2: B.S. in Electrical Engineering, Johns Hopkins University (2022)
+
+- name: Ayberk Acar
+  photo: ayberk.jpg
+  info: PhD Student
+  email: ayberk.acar@vanderbilt.edu
+  number_educ: 2
+  education1: B.S. in Electrical and Electronics Engineering, Middle East Technical University (2022)
+  education2: B.S. in Business Administration, Anadolu University (2021)
+
+- name: Simon Hao Yang
+  photo: simon.jpg
+  info: PhD Student
+  email: hao.yang@vanderbilt.edu
+  number_educ: 2
+  education1: M.S. in Robotics Engineering, Worcester Polytechnic Institute (2021)
+  education2: B.S. in Electrical Engineering, Nankai University (2019)
+
+- name: Jumanh Atoum
+  photo: jumanh.jpg
+  info: PhD Student
+  email: jumanh.atoum@vanderbilt.edu
+  number_educ: 2
+  education1: M.S. in Electrical and Computer Engineering, Tennessee Technological University
+  education2: B.S. in Electrical Engineering, Jordanian University of Science and Technology
 
 - name: "This could be you !"
   photo: blank.jpg
