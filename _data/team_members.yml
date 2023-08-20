@@ -7,8 +7,11 @@
   education2: M.Sc in Applied Mathematics, ENS Paris-Saclay (2016)
   education3: Ph.D. in Computer Science, Johns Hopkins University (2021)
 
-- name: [John J. Han](juseonghan.github.io)
+- name: John J. Han
   photo: john.jpg
+  link:
+    url: https://juseonghan.github.io
+    display: Personal Website
   info: PhD Student
   email: john.j.han@vanderbilt.edu
   number_educ: 2
