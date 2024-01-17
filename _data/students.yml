@@ -8,16 +8,14 @@
 #  education3:
 #  education4:
 
-- name: Master Student
-  photo: blank.jpg
-  info: Master student
-  email: a_master_student@vanderbilt.edu
-  number_educ: 1
-  education1: Vanderbilt University
+- name: Steve Jung
+  photo: steve.jpg
+  info: Junior in Computer Science
+  email: steve.jung@vanderbilt.edu
+  number_educ: 0
 
-- name: Undergraduate student
-  photo: blank.jpg
-  info: Undergraduate student
-  email: undergraduate_student@vanderbilt.edu
-  number_educ: 1
-  education1: Vanderbilt University
+- name: Kelly Xu
+  photo: kelly.jpg
+  info: Junior in Computer Science
+  email: steve.jung@vanderbilt.edu
+  number_educ: 0
