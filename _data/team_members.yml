@@ -3,9 +3,9 @@
   info: Assistant Professor of Computer Science
   email: jieying.wu@vanderbilt.edu
   number_educ: 3
-  education1: B.Sc in Computer Engineering, Brown University (2015)
+  education1: Ph.D. in Computer Science, Johns Hopkins University (2021)
   education2: M.Sc in Applied Mathematics, ENS Paris-Saclay (2016)
-  education3: Ph.D. in Computer Science, Johns Hopkins University (2021)
+  education3: B.Sc in Computer Engineering, Brown University (2015)
 
 - name: <a href="https://juseonghan.github.io">John J. Han</a>
   photo: john.jpg
@@ -41,7 +41,7 @@
 
 - name: "This could be you !"
   photo: blank.jpg
-  info: See <a href="http://www.allanlab.org/vacancies">openings</a> for more info
+  info: See <a href="https://vu-maple-lab.github.io/vacancies">openings</a> for more info
   email: milan.allan@gmail.com
   number_educ: 0
   education1:
