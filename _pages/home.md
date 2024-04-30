@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/long_logo.png" style="width: 400px">
+<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/team_pic.jpeg" style="width: 400px">
 
 Welcome to the MAPLE Lab! We aim to develop algorithms to model systems, environments, and our interactions with both. One major focus of our work is in providing guidance in robotic surgeries. We are part of Vanderbilt’s department of computer science and affiliated with the Vanderbilt Institute for Surgery and Engineering (VISE).
 
