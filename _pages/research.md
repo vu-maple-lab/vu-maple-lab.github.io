@@ -5,8 +5,8 @@ excerpt: "Maple Lab -- Research"
 sitemap: false
 permalink: /research/
 ---
-
-# Research
+<!-- THIS THING IS FAKE BUT I'M TOO SCARED TO GET RID OF IT LOL -->
+<!-- # Research
 
 **Radiation Visualization using Augmented Reality** 
 
@@ -46,4 +46,4 @@ permalink: /research/
   <a href="{{ site.url }}{{ site.baseurl }}/research/kidney_reconstruction" title="kidney_reconstruction">
     <img src="{{ site.url }}{{ site.baseurl }}/images/researchpic/kidney_reco.png" alt="kidney_reconstruction" />
   </a>
-</p>
+</p> -->

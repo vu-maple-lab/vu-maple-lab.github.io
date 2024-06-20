@@ -7,6 +7,8 @@ permalink: /research/
 ---
 
 # Research
+Click on the image to see a description of the project!
+
 **Radiation Visualization using Augmented Reality** 
 
 <p>
