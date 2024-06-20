@@ -12,31 +12,31 @@ permalink: /research/
 
 [![homepage][1]][2]
 
-[1]:  {{ site.url }}{{ site.baseurl }}/images/sarcoma.png
-[2]:  {{ site.url }}{{ site.baseurl }}/research/sarcoma
+[1]:  {{ site.url }}{{ site.baseurl }}/images/researchpic/sarcoma.png
+[2]:  {{ site.url }}{{ site.baseurl }}/research_projs/sarcoma
 
 **Robust Eye Tracking for da Vinci Surgical System**
 
 [![homepage][1]][2]
 
-[1]:  {{ site.url }}{{ site.baseurl }}/images/dvrk_gaze.png
-[2]:  {{ site.url }}{{ site.baseurl }}/research/dvrk_gaze
+[1]:  {{ site.url }}{{ site.baseurl }}/images/researchpic/dvrk_gaze.png
+[2]:  {{ site.url }}{{ site.baseurl }}/research_projs/dvrk_gaze
 
 **Sensorless Force Estimation on da Vinci Research Kit**
 
 [![homepage][1]][2]
 
-[1]:  {{ site.url }}{{ site.baseurl }}/images/force_estimation.png
-[2]:  {{ site.url }}{{ site.baseurl }}/research/force_estimation
+[1]:  {{ site.url }}{{ site.baseurl }}/images/researchpic/force_estimation.png
+[2]:  {{ site.url }}{{ site.baseurl }}/research_projs/force_estimation
 
 **Surgical Training and Skill Assessment through Augmented Reality**
 [![homepage][1]][2]
 
-[1]:  {{ site.url }}{{ site.baseurl }}/images/kidney_gaze.png
-[2]:  {{ site.url }}{{ site.baseurl }}/research/kidney_gaze
+[1]:  {{ site.url }}{{ site.baseurl }}/images/researchpic/kidney_gaze.png
+[2]:  {{ site.url }}{{ site.baseurl }}/research_projs/kidney_gaze
 
 **Vision based Navigation in Endoscopic Kidney Surgeries**
 [![homepage][1]][2]
 
-[1]:  {{ site.url }}{{ site.baseurl }}/images/kidney_reco.png
-[2]:  {{ site.url }}{{ site.baseurl }}/research/kidney_reconstruction
+[1]:  {{ site.url }}{{ site.baseurl }}/images/researchpic/kidney_reco.png
+[2]:  {{ site.url }}{{ site.baseurl }}/research_projs/kidney_reconstruction
