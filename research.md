@@ -12,35 +12,35 @@ Click on the image to see a description of the project!
 <div class="col-sm-6 clearfix">
   <h4>Radiation Visualization using Augmented Reality</h4>
   <a href="{{ site.url }}{{ site.baseurl }}/research/sarcoma" title="Sarcoma">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/researchpic/sarcoma.png" alt="sarcoma_img" style="width: 300px"/>
+    <img src="{{ site.url }}{{ site.baseurl }}/images/researchpic/sarcoma.png" alt="sarcoma_img" style="width: 400px"/>
   </a>
 </div>
 
 <div class="col-sm-6 clearfix">
   <h4>Radiation Visualization using Augmented Reality</h4>
   <a href="{{ site.url }}{{ site.baseurl }}/research/sarcoma" title="Sarcoma">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/researchpic/sarcoma.png" alt="sarcoma_img" style="width: 300px"/>
+    <img src="{{ site.url }}{{ site.baseurl }}/images/researchpic/sarcoma.png" alt="sarcoma_img" style="width: 400px"/>
   </a>
 </div>
 
 <div class="col-sm-6 clearfix">
  <h4>Radiation Visualization using Augmented Reality</h4>
   <a href="{{ site.url }}{{ site.baseurl }}/research/sarcoma" title="Sarcoma">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/researchpic/sarcoma.png" alt="sarcoma_img" style="width: 300px"/>
+    <img src="{{ site.url }}{{ site.baseurl }}/images/researchpic/sarcoma.png" alt="sarcoma_img" style="width: 400px"/>
   </a>
 </div>
 
 <div class="col-sm-6 clearfix">
   <h4>Radiation Visualization using Augmented Reality</h4>
   <a href="{{ site.url }}{{ site.baseurl }}/research/sarcoma" title="Sarcoma">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/researchpic/sarcoma.png" alt="sarcoma_img" style="width: 300px"/>
+    <img src="{{ site.url }}{{ site.baseurl }}/images/researchpic/sarcoma.png" alt="sarcoma_img" style="width: 400px"/>
   </a>
 </div>
 
 <div class="col-sm-6 clearfix">
   <h4>Radiation Visualization using Augmented Reality</h4>
   <a href="{{ site.url }}{{ site.baseurl }}/research/sarcoma" title="Sarcoma">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/researchpic/sarcoma.png" alt="sarcoma_img" style="width: 300px"/>
+    <img src="{{ site.url }}{{ site.baseurl }}/images/researchpic/sarcoma.png" alt="sarcoma_img" style="width: 400px"/>
   </a>
 </div>
 
