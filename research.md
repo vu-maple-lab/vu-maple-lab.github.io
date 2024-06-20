@@ -10,48 +10,38 @@ permalink: /research/
 Click on the image to see a description of the project!
 <div class="row">
 <div class="col-sm-6 clearfix">
- <div class="well">
   <h4>Radiation Visualization using Augmented Reality</h4>
   <a href="{{ site.url }}{{ site.baseurl }}/research/sarcoma" title="Sarcoma">
     <img src="{{ site.url }}{{ site.baseurl }}/images/researchpic/sarcoma.png" alt="sarcoma_img" style="width: 300px"/>
   </a>
- </div>
 </div>
 
 <div class="col-sm-6 clearfix">
- <div class="well">
   <h4>Radiation Visualization using Augmented Reality</h4>
   <a href="{{ site.url }}{{ site.baseurl }}/research/sarcoma" title="Sarcoma">
     <img src="{{ site.url }}{{ site.baseurl }}/images/researchpic/sarcoma.png" alt="sarcoma_img" style="width: 300px"/>
   </a>
- </div>
 </div>
 
 <div class="col-sm-6 clearfix">
- <div class="well">
  <h4>Radiation Visualization using Augmented Reality</h4>
   <a href="{{ site.url }}{{ site.baseurl }}/research/sarcoma" title="Sarcoma">
     <img src="{{ site.url }}{{ site.baseurl }}/images/researchpic/sarcoma.png" alt="sarcoma_img" style="width: 300px"/>
   </a>
- </div>
 </div>
 
 <div class="col-sm-6 clearfix">
- <div class="well">
   <h4>Radiation Visualization using Augmented Reality</h4>
   <a href="{{ site.url }}{{ site.baseurl }}/research/sarcoma" title="Sarcoma">
     <img src="{{ site.url }}{{ site.baseurl }}/images/researchpic/sarcoma.png" alt="sarcoma_img" style="width: 300px"/>
   </a>
- </div>
 </div>
 
 <div class="col-sm-6 clearfix">
- <div class="well">
   <h4>Radiation Visualization using Augmented Reality</h4>
   <a href="{{ site.url }}{{ site.baseurl }}/research/sarcoma" title="Sarcoma">
     <img src="{{ site.url }}{{ site.baseurl }}/images/researchpic/sarcoma.png" alt="sarcoma_img" style="width: 300px"/>
   </a>
- </div>
 </div>
 
 <!-- <div class="row">
