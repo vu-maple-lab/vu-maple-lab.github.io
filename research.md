@@ -10,35 +10,35 @@ permalink: /research/
 Click on the image to see a description of the project!
 <div class="row">
 <div class="col-sm-6 clearfix">
-  <h1>Radiation Visualization using Augmented Reality</h1>
+  <firstp>Radiation Visualization using Augmented Reality</firstp>
   <a href="{{ site.url }}{{ site.baseurl }}/research/sarcoma" title="Sarcoma">
     <img src="{{ site.url }}{{ site.baseurl }}/images/researchpic/sarcoma.png" alt="sarcoma_img" style="width: 400px" class="center"/>
   </a>
 </div>
 
 <div class="col-sm-6 clearfix">
- <h1>Sensorless Force Estimation on da Vinci Research Kit</h1>
+ <firstp>Sensorless Force Estimation on da Vinci Research Kit</firstp>
   <a href="{{ site.url }}{{ site.baseurl }}/research/force_estimation" title="force_estimation">
     <img src="{{ site.url }}{{ site.baseurl }}/images/researchpic/force_estimation.jpg" alt="force_estimation" style="width: 400px" class="center"/>
   </a>
 </div>
 
 <div class="col-sm-6 clearfix">
-  <h1>Robust Eye Tracking for da Vinci Surgical System</h1>
+  <firstp>Robust Eye Tracking for da Vinci Surgical System</firstp>
   <a href="{{ site.url }}{{ site.baseurl }}/research/dvrk_gaze" title="dvrk_gaze">
     <img src="{{ site.url }}{{ site.baseurl }}/images/researchpic/dvrk_gaze.png" alt="dvrk_gaze" style="width: 400px" class="center"/>
   </a>
 </div>
 
 <div class="col-sm-6 clearfix">
-  <h1>Surgical Training and Skill Assessment through Augmented Reality</h1>
+  <firstp>Surgical Training and Skill Assessment through Augmented Reality</firstp>
   <a href="{{ site.url }}{{ site.baseurl }}/research/kidney_gaze" title="kidney_gaze">
     <img src="{{ site.url }}{{ site.baseurl }}/images/researchpic/kidney_gaze.png" alt="kidney_gaze" style="width: 300px" class="center"/>
   </a>
 </div>
 
 <div class="col-sm-6 clearfix">
-  <h1>Vision based Navigation in Endoscopic Kidney Surgeries</h1>
+  <firstp>Vision based Navigation in Endoscopic Kidney Surgeries</firstp>
   <a href="{{ site.url }}{{ site.baseurl }}/research/kidney_reconstruction" title="kidney_reconstruction">
     <img src="{{ site.url }}{{ site.baseurl }}/images/researchpic/kidney_reco.png" alt="kidney_reconstruction" style="width: 300px" class="center"/>
   </a>
