@@ -17,6 +17,7 @@ permalink: /research/
 </p>
 
 **Robust Eye Tracking for da Vinci Surgical System**
+
 <p>
   <a href="{{ site.url }}{{ site.baseurl }}/research/dvrk_gaze" title="dvrk_gaze">
     <img src="{{ site.url }}{{ site.baseurl }}/images/researchpic/dvrk_gaze.png" alt="dvrk_gaze" />
@@ -24,6 +25,7 @@ permalink: /research/
 </p>
 
 **Sensorless Force Estimation on da Vinci Research Kit**
+
 <p>
   <a href="{{ site.url }}{{ site.baseurl }}/research/force_estimation" title="force_estimation">
     <img src="{{ site.url }}{{ site.baseurl }}/images/researchpic/force_estimation.jpg" alt="force_estimation" />
@@ -31,6 +33,7 @@ permalink: /research/
 </p>
 
 **Surgical Training and Skill Assessment through Augmented Reality**
+
 <p>
   <a href="{{ site.url }}{{ site.baseurl }}/research/kidney_gaze" title="kidney_gaze">
     <img src="{{ site.url }}{{ site.baseurl }}/images/researchpic/kidney_gaze.png" alt="kidney_gaze" />
@@ -38,6 +41,7 @@ permalink: /research/
 </p>
 
 **Vision based Navigation in Endoscopic Kidney Surgeries**
+
 <p>
   <a href="{{ site.url }}{{ site.baseurl }}/research/kidney_reconstruction" title="kidney_reconstruction">
     <img src="{{ site.url }}{{ site.baseurl }}/images/researchpic/kidney_reco.png" alt="kidney_reconstruction" />
