@@ -9,7 +9,7 @@ permalink: /research/
 # Research
 Click on the image to see a description of the project!
 
-**Radiation Visualization using Augmented Reality** 
+*Radiation Visualization using Augmented Reality*
 
 <p>
   <a href="{{ site.url }}{{ site.baseurl }}/research/sarcoma" title="Sarcoma">
@@ -17,7 +17,7 @@ Click on the image to see a description of the project!
   </a>
 </p>
 
-**Robust Eye Tracking for da Vinci Surgical System**
+*Robust Eye Tracking for da Vinci Surgical System*
 
 <p>
   <a href="{{ site.url }}{{ site.baseurl }}/research/dvrk_gaze" title="dvrk_gaze">
@@ -25,7 +25,7 @@ Click on the image to see a description of the project!
   </a>
 </p>
 
-**Sensorless Force Estimation on da Vinci Research Kit**
+*Sensorless Force Estimation on da Vinci Research Kit*
 
 <p>
   <a href="{{ site.url }}{{ site.baseurl }}/research/force_estimation" title="force_estimation">
@@ -33,7 +33,7 @@ Click on the image to see a description of the project!
   </a>
 </p>
 
-**Surgical Training and Skill Assessment through Augmented Reality**
+*Surgical Training and Skill Assessment through Augmented Reality*
 
 <p>
   <a href="{{ site.url }}{{ site.baseurl }}/research/kidney_gaze" title="kidney_gaze">
@@ -41,11 +41,11 @@ Click on the image to see a description of the project!
   </a>
 </p>
 
-**Vision based Navigation in Endoscopic Kidney Surgeries**
+*Vision based Navigation in Endoscopic Kidney Surgeries*
 
 <p>
   <a href="{{ site.url }}{{ site.baseurl }}/research/kidney_reconstruction" title="kidney_reconstruction">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/researchpic/kidney_reco.png" alt="kidney_reconstruction" style="width: 500px"/>
+    <img src="{{ site.url }}{{ site.baseurl }}/images/researchpic/kidney_reco.png" alt="kidney_reconstruction" style="width: 400px"/>
   </a>
 </p>
 
