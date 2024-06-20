@@ -9,6 +9,53 @@ permalink: /research/
 # Research
 Click on the image to see a description of the project!
 <div class="row">
+<div class="col-sm-6 clearfix">
+ <div class="well">
+  <pubtit>{{Radiation Visualization using Augmented Reality }}</pubtit>
+  <a href="{{ site.url }}{{ site.baseurl }}/research/sarcoma" title="Sarcoma">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/researchpic/sarcoma.png" alt="sarcoma_img" style="width: 300px"/>
+  </a>
+ </div>
+</div>
+
+<div class="col-sm-6 clearfix">
+ <div class="well">
+  <pubtit>{{Radiation Visualization using Augmented Reality }}</pubtit>
+  <a href="{{ site.url }}{{ site.baseurl }}/research/sarcoma" title="Sarcoma">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/researchpic/sarcoma.png" alt="sarcoma_img" style="width: 300px"/>
+  </a>
+ </div>
+</div>
+
+<div class="col-sm-6 clearfix">
+ <div class="well">
+  <pubtit>{{Radiation Visualization using Augmented Reality }}</pubtit>
+  <a href="{{ site.url }}{{ site.baseurl }}/research/sarcoma" title="Sarcoma">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/researchpic/sarcoma.png" alt="sarcoma_img" style="width: 300px"/>
+  </a>
+ </div>
+</div>
+
+<div class="col-sm-6 clearfix">
+ <div class="well">
+  <pubtit>{{Radiation Visualization using Augmented Reality }}</pubtit>
+  <a href="{{ site.url }}{{ site.baseurl }}/research/sarcoma" title="Sarcoma">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/researchpic/sarcoma.png" alt="sarcoma_img" style="width: 300px"/>
+  </a>
+ </div>
+</div>
+
+<div class="col-sm-6 clearfix">
+ <div class="well">
+  <pubtit>{{Radiation Visualization using Augmented Reality }}</pubtit>
+  <a href="{{ site.url }}{{ site.baseurl }}/research/sarcoma" title="Sarcoma">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/researchpic/sarcoma.png" alt="sarcoma_img" style="width: 300px"/>
+  </a>
+ </div>
+</div>
+</div>
+
+<!-- <div class="row">
 <div class="col-sim-6 clearfix">
 <h4>Radiation Visualization using Augmented Reality</h4>
   <a href="{{ site.url }}{{ site.baseurl }}/research/sarcoma" title="Sarcoma">
@@ -40,7 +87,7 @@ Click on the image to see a description of the project!
   <a href="{{ site.url }}{{ site.baseurl }}/research/kidney_reconstruction" title="kidney_reconstruction">
     <img src="{{ site.url }}{{ site.baseurl }}/images/researchpic/kidney_reco.png" alt="kidney_reconstruction" style="width: 300px"/>
   </a>
-</div>
+</div> -->
 
 
 <!-- **Radiation Visualization using Augmented Reality** 
