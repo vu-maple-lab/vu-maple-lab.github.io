@@ -8,7 +8,7 @@ permalink: /research/
 
 # Research
 Click on the image to see a description of the project!
-
+<div class="row">
 <div class="col-sim-6 clearfix">
 <h4>Radiation Visualization using Augmented Reality</h4>
 <p>
@@ -51,7 +51,7 @@ Click on the image to see a description of the project!
     <img src="{{ site.url }}{{ site.baseurl }}/images/researchpic/kidney_reco.png" alt="kidney_reconstruction" style="width: 500px"/>
   </a>
 </p> -->
-
+</div>
 
 
 <!-- **Radiation Visualization using Augmented Reality** 
