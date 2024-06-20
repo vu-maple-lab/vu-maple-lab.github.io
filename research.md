@@ -33,7 +33,7 @@ Click on the image to see a description of the project!
 <div class="col-sm-6 clearfix">
   <h4>Surgical Training and Skill Assessment through Augmented Reality</h4>
   <a href="{{ site.url }}{{ site.baseurl }}/research/kidney_gaze" title="kidney_gaze">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/researchpic/kidney_gaze.png" alt="kidney_gaze" style="width: 400px"/>
+    <img src="{{ site.url }}{{ site.baseurl }}/images/researchpic/kidney_gaze.png" alt="kidney_gaze" style="width: 300px"/>
   </a>
 </div>
 
