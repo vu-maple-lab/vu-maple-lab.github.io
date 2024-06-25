@@ -10,12 +10,18 @@
 
 - name: Steve Jung
   photo: steve.jpg
-  info: Sophomore in Computer Science
+  info: Junior in Computer Science
   email: steve.jung@vanderbilt.edu
   number_educ: 0
 
 - name: Kelly Xu
   photo: kelly.jpeg
-  info: Junior in Computer Science
+  info: Senior in Computer Science
   email: steve.jung@vanderbilt.edu
   number_educ: 0
+
+  - name: Qingyun Yang
+    photo: anne.jpg
+    info: Junior in Computer Science
+    email: qingyun.yang@vanderbilt.edu
+    number_educ: 0

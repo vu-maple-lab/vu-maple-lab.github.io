@@ -39,6 +39,14 @@
   education1: M.S. in Electrical and Computer Engineering, Tennessee Technological University
   education2: B.S. in Electrical Engineering, Jordanian University of Science and Technology
 
+- name: Xinyuan Liu
+  photo: xinyuan.jpg
+  info: Research Assistant
+  email: xinyuan.liu@vanderbilt.edu
+  number_educ: 2
+  education1: M.S. in Computer Science, Rice University
+  education2: B.S. in Software Engineering, Huazhong University of Science and Technology
+
 - name: "This could be you !"
   photo: blank.jpg
   info: See <a href="https://vu-maple-lab.github.io/vacancies">openings</a> for more info
