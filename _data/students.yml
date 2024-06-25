@@ -20,8 +20,8 @@
   email: steve.jung@vanderbilt.edu
   number_educ: 0
 
-  - name: Qingyun Yang
-    photo: anne.jpg
-    info: Junior in Computer Science
-    email: qingyun.yang@vanderbilt.edu
-    number_educ: 0
+- name: Qingyun Yang
+  photo: anne.jpg
+  info: Junior in Computer Science
+  email: qingyun.yang@vanderbilt.edu
+  number_educ: 0
