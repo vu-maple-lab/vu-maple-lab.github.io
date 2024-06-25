@@ -136,7 +136,7 @@ permalink: /team/
 {% endif %}
 
 
-## Former visitors, BSc/ MSc students
+## Former visitors, Research Assistants, students
 <div class="row">
 
 <!-- <div class="col-sm-4 clearfix">
@@ -145,6 +145,13 @@ permalink: /team/
 {{ member.name }}
 {% endfor %}
 </div> -->
+
+<div class="col-sm-4 clearfix">
+<h4>Research Assistants</h4>
+{% for member in site.data.alumni_ra %}
+{{ member.name }}
+{% endfor %}
+</div>
 
 <div class="col-sm-4 clearfix">
 <h4>Master students</h4>
