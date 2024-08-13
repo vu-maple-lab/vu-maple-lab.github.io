@@ -17,7 +17,7 @@ Topics covered include modeling robot motions and signals, modeling the patient 
 
 **Instructor:** [Jie Ying Wu](https://engineering.vanderbilt.edu/bio/jieying-wu/)
 
-**Office Hours:**: TBD
+**Office Hours:**: *TBD*
 
 Homeworks and projects will be submitted and graded through Brightspace. Please use Brightspace discussion for homework questions. Readings are posted on Perusall (access through Brightspace) and discussions on readings will take place there.
 
@@ -52,7 +52,7 @@ Week 12 – Imitation learning for surgical subtask automation
 
 Week 13 – Virtual fixtures and controls
 
-Week 14 – Happy Thanksgiving!
+Week 14 – *Happy Thanksgiving!*
 
 Week 15 – Endoscope camera manipulation
 
