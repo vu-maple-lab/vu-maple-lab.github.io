@@ -26,6 +26,7 @@ Homeworks and projects will be submitted and graded through Brightspace. Please 
 If you do not have access to a GPU, there will be Google Cloud credits available (thanks to their generous academic program!) to run homeworks and projects.
 
 **Tentative Schedule**
+
 Week 1 – Intro to surgical robots
 
 Week 2 – Kinematics and teleoperation
