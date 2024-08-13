@@ -2,7 +2,7 @@
 title: "Maple Lab - Fall22"
 layout: textlay
 excerpt: "Maple Lab -- Fall22"
-permalink: /fall22teaching/
+permalink: /teaching/fall22/
 ---
 
 ## CS-8395-04: Special Topics - Intelligent Surgical Robots
