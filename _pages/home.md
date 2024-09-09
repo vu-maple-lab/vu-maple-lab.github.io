@@ -8,7 +8,7 @@ permalink: /
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/team.jpg" style="width: 700px">
 
-Welcome to the MAPLE Lab! We aim to develop algorithms to model systems, environments, and our interactions with both. One major focus of our work is in providing guidance in robotic surgeries. We are part of Vanderbilt’s department of computer science and affiliated with the Vanderbilt Institute for Surgery and Engineering (VISE).
+Welcome to the Machine Automation, Perception, and Learning (MAPLE) Lab! We aim to develop algorithms to model systems, environments, and our interactions with both. One major focus of our work is in providing guidance in robotic surgeries. We are part of Vanderbilt’s department of computer science and affiliated with the Vanderbilt Institute for Surgery and Engineering (VISE).
 
 Some of our current projects include developing learning-based models of soft-tissue to estimate deformations, using eye-gaze trackers to measure cognitive loads during the use of surgical robots, and learning what makes a good camera view during surgery.
 
