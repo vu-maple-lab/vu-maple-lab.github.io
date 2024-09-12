@@ -39,6 +39,14 @@
   education1: M.S. in Electrical and Computer Engineering, Tennessee Technological University
   education2: B.S. in Electrical Engineering, Jordanian University of Science and Technology
 
+- name: Zixuan Liu
+  photo: zixuan.jpeg
+  info: PhD Student
+  email: zixuan.liu@vanderbilt.edu
+  number_educ: 2
+  education1: M.S.E. in Computer Science, Johns Hopkins University (2024)
+  education2: B.S. in Computer Science, Wenzhou Kean University (2022)
+  
 - name: Xinyuan Liu
   photo: xinyuan.jpg
   info: Research Assistant
