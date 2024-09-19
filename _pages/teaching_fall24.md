@@ -27,38 +27,34 @@ If you do not have access to a GPU, there will be Google Cloud credits available
 
 **Tentative Schedule**
 
-Week 1 – Intro to surgical robots
+Week 1 – Aug 22nd: Intro to surgical robots. **Homework 1 released**
 
-Week 2 – Kinematics and teleoperation
+Week 2 – Aug 27th, Aug 29th: Kinematics and teleoperation, Python and PyTorch tutorial
 
-Week 3 – Intro to different imaging devices and calibration
+Week 3 – Sep 3rd, Sep 5th: Intro to devices and calibration, field trip to VISE **Project 1 released**
 
-Week 4 – Neural networks for robot instrument segmentation
+Week 4 – Sep 10th, Sep 12th: Neural networks for robot instrument segmentation
 
-Week 5 – Image-guided interventions and tissue tracking
+Week 5 – Sept 17th, Sept 19th: Graph learning and tissue tracking
 
-Week 6 – Anatomy modeling
+Week 6 – Sept 24th, Sept 26th: Autonomous suturing
 
-Week 7 – Soft-tissue modeling
+Week 7 – (Oct 1st, Oct 3rd) Project 1 presentations **Homework 2 released**
 
-Week 8 – Losses and challenges in evaluation
+Week 8 – Oct 8th: Guest lecture from [Florian Richter](https://florianengineering.com/about)
 
-Week 9 – Video gesture analysis and unsupervised modeling
+Week 9 – Oct 15th, Oct 17th: Unsupervised representation of surgical gestures **Homework 3 released**
 
-Week 10 – Guest lectures from Dr. Peter Kazanzides and Dr. Florian Richter
+Week 10 – Oct 22nd, Oct 24th: Video gesture analysis and unsupervised modeling
 
-Week 11 – Kinematics-based surgical gestures and skill identification
+Week 11 – Oct 29th, Oct 31st: Kinematics-based surgical gestures and skill identification **Project 2 released**
 
-Week 12 – Imitation learning for surgical subtask automation
+Week 12 – Nov 5th, Nov 7th: Imitation learning for surgical subtask automation
 
-Week 13 – Virtual fixtures and controls
+Week 13 – Nov 12th, Nov 14th: Virtual fixtures and controls
 
-Week 14 – *Happy Thanksgiving!*
+Week 14 – Nov 19th, Nov 21st: AI meets medical robotics - what's next? 
 
-Week 15 – Endoscope camera manipulation
+Week 15 – *Happy Thanksgiving!*
 
-Week 16 – Project preparation and presentation
-
-**Assignments**
-
-There will be three homeworks, one paper presentation, and two group projects.
+Week 16 – Dec 3rd, Dec 5th: Project 2 presentations
