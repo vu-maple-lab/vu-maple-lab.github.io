@@ -47,6 +47,14 @@
   education1: M.S.E. in Computer Science, Johns Hopkins University (2024)
   education2: B.S. in Computer Science, Wenzhou Kean University (2022)
   
+- name: Fangjie Li
+  photo: fj.jpg 
+  info: PhD Student 
+  email: fangjie.li@vanderbilt.edu
+  number_educ: 2
+  education1: M.S.C. in Biomedical Engineering, Johns Hopkins University (2024)
+  education2: B.S. in Biomedical Engienering, Johns Hopkins University (2023)
+
 - name: Xinyuan Liu
   photo: xinyuan.jpg
   info: Research Assistant
